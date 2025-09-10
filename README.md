@@ -4,11 +4,6 @@
 
 Streakly is a modern habit tracking and task management application that helps users build consistent daily habits through gamification, streak tracking, and intelligent notifications. Built with React, TypeScript, and Supabase.
 
-![Streakly Dashboard](https://img.shields.io/badge/Status-Active-brightgreen)
-![React](https://img.shields.io/badge/React-18.3.1-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blue)
-![Supabase](https://img.shields.io/badge/Supabase-Backend-green)
-
 ## 🌟 Features
 
 ### Core Functionality
